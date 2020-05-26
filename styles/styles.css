@@ -1,0 +1,75 @@
+@font-face {
+  font-family: 'Jost';
+  src: url("../fonts/Jost-Medium.eot");
+  src: url("../fonts/Jost-Medium.eot?#iefix") format("embedded-opentype"), url("../fonts/Jost-Medium.woff2") format("woff2"), url("../fonts/Jost-Medium.woff") format("woff"), url("../fonts/Jost-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Jost';
+  src: url("../fonts/Jost-Regular.eot");
+  src: url("../fonts/Jost-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/Jost-Regular.woff2") format("woff2"), url("../fonts/Jost-Regular.woff") format("woff"), url("../fonts/Jost-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Jost';
+  src: url("../fonts/Jost-Bold.eot");
+  src: url("../fonts/Jost-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/Jost-Bold.woff2") format("woff2"), url("../fonts/Jost-Bold.woff") format("woff"), url("../fonts/Jost-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Oswald';
+  src: url("../fonts/Oswald-Medium.eot");
+  src: url("../fonts/Oswald-Medium.eot?#iefix") format("embedded-opentype"), url("../fonts/Oswald-Medium.woff2") format("woff2"), url("../fonts/Oswald-Medium.woff") format("woff"), url("../fonts/Oswald-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Oswald';
+  src: url("../fonts/Oswald-Regular.eot");
+  src: url("../fonts/Oswald-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/Oswald-Regular.woff2") format("woff2"), url("../fonts/Oswald-Regular.woff") format("woff"), url("../fonts/Oswald-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Oswald';
+  src: url("Oswald-Bold.eot");
+  src: url("Oswald-Bold.eot?#iefix") format("embedded-opentype"), url("Oswald-Bold.woff2") format("woff2"), url("Oswald-Bold.woff") format("woff"), url("Oswald-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.html {
+  font-family: 'Jost',normal;
+  font-size: 16px;
+}
+
+.body {
+  margin: 0;
+  background-color: #ffffff;
+}
+
+.container {
+  width: 1110px;
+  margin: 0 auto;
+}
+
+.header {
+  color: red;
+  width: auto;
+  height: 200px;
+  padding: 111px;
+}
+/*# sourceMappingURL=styles.css.map */
